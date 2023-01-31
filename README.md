@@ -1,2 +1,2 @@
-# Data_Analysis_with_Business_Intelligence_Tool
+# Data Analysis with Business Intelligence Tools
 This repository contains all my personal project on Business Intelligence Tools
